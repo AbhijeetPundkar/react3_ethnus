@@ -18,7 +18,7 @@ function App() {
 
 
   return (
-    <div className="App"> <h6>Rishabh Sharma -- 21BCE11053</h6>
+    <div className="App"> 
       <div className="color-switcher">
        
         <div className='color-list' id="to">
